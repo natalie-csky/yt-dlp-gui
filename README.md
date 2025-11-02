@@ -2,4 +2,4 @@ Requires [yt-dlp](https://github.com/yt-dlp/yt-dlp) and [ffmpeg](https://www.ffm
 
 ![alt text](https://github.com/natalie-csky/yt-dlp-gui/blob/main/Screenshot_20251102_214203.png)
 
-note that the code was sloppily written in like a day :3
+<sub>note that the code was sloppily written in like a day :3</sub>
